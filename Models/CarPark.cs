@@ -26,8 +26,8 @@ namespace ooplesson4parking.Models
         {
             foreach (Customer customer in listOfCustomers)
             {
-                int calulatedCharge = carParkCharge.CalculateCharge(customer.HoursParked);
-                Console.WriteLine($"Calculating charge for customer: the cost is {calulatedCharge} € for registration {customer.Registration}");
+                decimal calulatedCharge = carParkCharge.CalculateCharge(customer.HoursParked);
+                Console.WriteLine($"Calculating charge for customer: the cost is {calulatedCharge.ToString("0.##")} € for registration {customer.Registration}");
             }
         }
     }

@@ -25,9 +25,9 @@ namespace ooplesson4parking.Test
             CarParkCharge carParkCharge = new CarParkCharge();
 
             // Call the ToString Method
-            Console.WriteLine(carPark.ToString());
-            Console.WriteLine(customer.ToString());
-            Console.WriteLine(carParkCharge.ToString());
+            //Console.WriteLine(carPark.ToString());
+            //Console.WriteLine(customer.ToString());
+            //Console.WriteLine(carParkCharge.ToString());
         }
     }
 }
