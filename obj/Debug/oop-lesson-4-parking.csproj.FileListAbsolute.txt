@@ -1,0 +1,6 @@
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/bin/Debug/oop-lesson-4-parking.exe
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/bin/Debug/oop-lesson-4-parking.pdb
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/obj/Debug/oop-lesson-4-parking.csproj.AssemblyReference.cache
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/obj/Debug/oop-lesson-4-parking.csproj.CoreCompileInputs.cache
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/obj/Debug/oop-lesson-4-parking.exe
+/Users/kyllian/Documents/Dorset/Object-Oriented Programming/Week 4/oop-lesson-4-parking/obj/Debug/oop-lesson-4-parking.pdb
