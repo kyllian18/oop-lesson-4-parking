@@ -12,12 +12,12 @@ namespace ooplesson4parking.Test
         {
             CarPark carPark = new CarPark();
 
-            carPark.listOfCustomers.Add(new Customer("a", 2));
-            carPark.listOfCustomers.Add(new Customer("b", 3));
-            carPark.listOfCustomers.Add(new Customer("c", 4));
-            carPark.listOfCustomers.Add(new Customer("d", 5));
-            carPark.listOfCustomers.Add(new Customer("e", 6));
-            carPark.listOfCustomers.Add(new Customer("f", 7));
+            carPark.AddCustomer(new Customer("a", 2));
+            carPark.AddCustomer(new Customer("b", 3));
+            carPark.AddCustomer(new Customer("c", 4));
+            carPark.AddCustomer(new Customer("d", 5));
+            carPark.AddCustomer(new Customer("e", 6));
+            carPark.AddCustomer(new Customer("f", 7));
 
             carPark.CalculateCharges();
 
